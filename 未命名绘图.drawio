@@ -82,8 +82,8 @@
         <mxCell id="fyscz7Frw1TqZXSdxZn5-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;opacity=70;" value="事件管理" vertex="1">
           <mxGeometry height="30" width="120" x="880" y="710" as="geometry" />
         </mxCell>
-        <mxCell id="fyscz7Frw1TqZXSdxZn5-26" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=70;" value="Demo Space" vertex="1">
-          <mxGeometry height="30" width="90" x="880" y="220.73000000000002" as="geometry" />
+        <mxCell id="fyscz7Frw1TqZXSdxZn5-26" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=70;" value="样例空间" vertex="1">
+          <mxGeometry height="30" width="90" x="890" y="222.73000000000002" as="geometry" />
         </mxCell>
         <mxCell id="fyscz7Frw1TqZXSdxZn5-27" parent="1" style="triangle;whiteSpace=wrap;html=1;fillColor=none;opacity=70;rotation=90;" value="" vertex="1">
           <mxGeometry height="24" width="10" x="983" y="226.73000000000002" as="geometry" />
