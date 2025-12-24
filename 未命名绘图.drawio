@@ -107,7 +107,7 @@
           <mxGeometry height="42.5" width="390" x="-340" y="1147.5" as="geometry" />
         </mxCell>
         <mxCell id="fyscz7Frw1TqZXSdxZn5-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="Log in" vertex="1">
-          <mxGeometry height="30" width="60" x="-340" y="1060" as="geometry" />
+          <mxGeometry height="30" width="60" x="-340" y="1070" as="geometry" />
         </mxCell>
         <mxCell id="fyscz7Frw1TqZXSdxZn5-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Email" vertex="1">
           <mxGeometry height="30" width="60" x="-340" y="1115" as="geometry" />
