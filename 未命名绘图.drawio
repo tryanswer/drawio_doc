@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="第 1 页" id="Mlj70sKDzVrsjADdlAs0">
-    <mxGraphModel dx="3180" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2899" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,7 +89,55 @@
           <mxGeometry height="24" width="10" x="1363" y="227.46" as="geometry" />
         </mxCell>
         <mxCell id="fyscz7Frw1TqZXSdxZn5-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="730" width="1130" x="-430" y="940" as="geometry" />
+          <mxGeometry height="730" width="1130" x="-430" y="933.75" as="geometry" />
+        </mxCell>
+        <mxCell id="fyscz7Frw1TqZXSdxZn5-42" edge="1" parent="1" source="fyscz7Frw1TqZXSdxZn5-28" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fyscz7Frw1TqZXSdxZn5-28" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="990" as="sourcePoint" />
+            <mxPoint x="130" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fyscz7Frw1TqZXSdxZn5-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Logo" vertex="1">
+          <mxGeometry height="50" width="110" x="-400" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="fyscz7Frw1TqZXSdxZn5-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Not a memeber yet ? &lt;b&gt;Join&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="-50" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="fyscz7Frw1TqZXSdxZn5-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="42.5" width="390" x="-340" y="1207.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fyscz7Frw1TqZXSdxZn5-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="Log in" vertex="1">
+          <mxGeometry height="30" width="60" x="-340" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="fyscz7Frw1TqZXSdxZn5-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Email" vertex="1">
+          <mxGeometry height="30" width="60" x="-340" y="1175" as="geometry" />
+        </mxCell>
+        <mxCell id="fyscz7Frw1TqZXSdxZn5-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="42.5" width="390" x="-340" y="1292.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fyscz7Frw1TqZXSdxZn5-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Password" vertex="1">
+          <mxGeometry height="30" width="60" x="-340" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="fyscz7Frw1TqZXSdxZn5-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Forgot password?" vertex="1">
+          <mxGeometry height="30" width="110" x="-340" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="fyscz7Frw1TqZXSdxZn5-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Log in" vertex="1">
+          <mxGeometry height="50" width="390" x="-340" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="fyscz7Frw1TqZXSdxZn5-53" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="50" y="1470" as="sourcePoint" />
+            <mxPoint x="-340" y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fyscz7Frw1TqZXSdxZn5-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Log in with Google" vertex="1">
+          <mxGeometry height="50" width="190" x="-340" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="fyscz7Frw1TqZXSdxZn5-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Log in with Github" vertex="1">
+          <mxGeometry height="50" width="190" x="-140" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="fyscz7Frw1TqZXSdxZn5-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="产品亮点/用户评价" vertex="1">
+          <mxGeometry height="270" width="420" x="220" y="1150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
