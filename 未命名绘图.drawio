@@ -104,25 +104,25 @@
           <mxGeometry height="30" width="150" x="-50" y="980" as="geometry" />
         </mxCell>
         <mxCell id="fyscz7Frw1TqZXSdxZn5-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="42.5" width="390" x="-340" y="1207.5" as="geometry" />
+          <mxGeometry height="42.5" width="390" x="-340" y="1147.5" as="geometry" />
         </mxCell>
         <mxCell id="fyscz7Frw1TqZXSdxZn5-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="Log in" vertex="1">
-          <mxGeometry height="30" width="60" x="-340" y="1120" as="geometry" />
+          <mxGeometry height="30" width="60" x="-340" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="fyscz7Frw1TqZXSdxZn5-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Email" vertex="1">
-          <mxGeometry height="30" width="60" x="-340" y="1175" as="geometry" />
+          <mxGeometry height="30" width="60" x="-340" y="1115" as="geometry" />
         </mxCell>
         <mxCell id="fyscz7Frw1TqZXSdxZn5-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="42.5" width="390" x="-340" y="1292.5" as="geometry" />
+          <mxGeometry height="42.5" width="390" x="-340" y="1232.5" as="geometry" />
         </mxCell>
         <mxCell id="fyscz7Frw1TqZXSdxZn5-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Password" vertex="1">
-          <mxGeometry height="30" width="60" x="-340" y="1260" as="geometry" />
+          <mxGeometry height="30" width="60" x="-340" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="fyscz7Frw1TqZXSdxZn5-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Forgot password?" vertex="1">
-          <mxGeometry height="30" width="110" x="-340" y="1350" as="geometry" />
+          <mxGeometry height="30" width="110" x="-340" y="1360" as="geometry" />
         </mxCell>
         <mxCell id="fyscz7Frw1TqZXSdxZn5-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Log in" vertex="1">
-          <mxGeometry height="50" width="390" x="-340" y="1390" as="geometry" />
+          <mxGeometry height="50" width="390" x="-340" y="1400" as="geometry" />
         </mxCell>
         <mxCell id="fyscz7Frw1TqZXSdxZn5-53" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -170,7 +170,7 @@
           <mxGeometry height="30" width="60" x="-340" y="2065" as="geometry" />
         </mxCell>
         <mxCell id="fyscz7Frw1TqZXSdxZn5-84" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Create account" vertex="1">
-          <mxGeometry height="50" width="390" x="-340" y="2166.25" as="geometry" />
+          <mxGeometry height="50" width="390" x="-340" y="2176.25" as="geometry" />
         </mxCell>
         <mxCell id="fyscz7Frw1TqZXSdxZn5-85" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -192,6 +192,15 @@
         </mxCell>
         <mxCell id="fyscz7Frw1TqZXSdxZn5-90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="User name" vertex="1">
           <mxGeometry height="30" width="80" x="-340" y="1900" as="geometry" />
+        </mxCell>
+        <mxCell id="fyscz7Frw1TqZXSdxZn5-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="42.5" width="250" x="-200" y="1312.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fyscz7Frw1TqZXSdxZn5-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="验证码" vertex="1">
+          <mxGeometry height="30" width="60" x="-340" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="fyscz7Frw1TqZXSdxZn5-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="验证码图片" vertex="1">
+          <mxGeometry height="42.5" width="130" x="-340" y="1312.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
